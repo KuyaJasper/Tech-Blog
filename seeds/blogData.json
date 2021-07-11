@@ -1,17 +1,17 @@
 [
     {
-        "blog_title": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
-        "blog_text": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "Blog 1",
+        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
         "user_id": 1
     },
     {
-        "blog_title": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
-        "blog_text": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "Blog 2",
+        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
         "user_id": 2
     },
     {
-        "blog_title": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
-        "blog_text": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "Blog 3",
+        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
         "user_id": 3
     }
 ]
