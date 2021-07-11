@@ -16,4 +16,6 @@
 
 {{> comments blog.comments}}
 
-{{!-- to do: add comment logic --}}
+{{#if logged_in}}
+<script src="../public/js/comment.js"></script>
+{{/if}}
