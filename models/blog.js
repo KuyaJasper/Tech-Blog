@@ -14,18 +14,29 @@ Blog.init(
             primaryKey: true,
             autoIncrement: true,
         },
-        blog_title: {
+        title: {
             type: DataTypes.STRING,
             allowNull: false,
         },
-        blog_text: {
-            type: DataTypes.STRING,
+        description: {
+            type: DataTypes.TEXT,
+            allowNull: false
+        },
+        date_created: {
+            type: DataTypes.DATE,
+            allowNull: false,
+            defaultValue: DataTypes.NOW,
+        },
+        date_updated: {
+            type: DataTypes.DATE,
+            allowNull: false,
+            defaultValue: DataTypes.NOW,
         },
         user_id: {
             type: DataTypes.INTEGER,
             references: {
-                model: "user",
-                key: "id",
+                model: 'user',
+                key: 'id',
             },
         },
     },
