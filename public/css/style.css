@@ -88,3 +88,7 @@ a {
     color: #065b83;
     text-decoration: underline;
 }
+
+.blogTitle{
+    font-size: 2rem;
+}

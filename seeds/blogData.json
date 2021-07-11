@@ -1,17 +1,17 @@
 [
     {
-        "title": "Blog 1",
-        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "Hello world!",
+        "description": " My name is Jasper, and I am a future web developer!!!!!!!!",
         "user_id": 1
     },
     {
-        "title": "Blog 2",
-        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "Just give me all the bacon and eggs you have...",
+        "description": "There has never been a sadness that can't be cured by breakfast food.",
         "user_id": 2
     },
     {
-        "title": "Blog 3",
-        "description": "Duis congue metus eget hendrerit pharetra. Praesent in urna placerat, accumsan metus eget, varius nibh. Donec feugiat tortor ut ex congue lobortis.",
+        "title": "My name is Chandler",
+        "description": " I make jokes when I'm uncomfortable.",
         "user_id": 3
     }
 ]
