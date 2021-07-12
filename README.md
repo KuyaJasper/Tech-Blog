@@ -22,6 +22,8 @@ For server development we used [Express](https://expressjs.com/).
 
 For development this project used [dotenv package](https://www.npmjs.com/package/dotenv) for environment variables, the [bcrypt package](https://www.npmjs.com/package/bcrypt) to hash passwords, and the [express-session](https://www.npmjs.com/package/express-session) and [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) packages to add authentication.
 
+[TakuyaMats](https://github.com/TakuyaMats) helped me with the handlebars portion of this assignment.
+
 # Acceptance Criteria
 
 ```md
