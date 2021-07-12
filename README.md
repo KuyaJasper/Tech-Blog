@@ -86,7 +86,7 @@ This will start the server for your browser to use. The console should display:
 
 # License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-ffd500)](https://jasper-abarquez.mit-license.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-ffd500)]((https://jasper-abarquez.mit-license.org))
 
 
 # Screen Recording
