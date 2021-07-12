@@ -97,7 +97,7 @@ Example of how deployed application should run:
 
 # Application
 
- [![Deployed Application](https://img.shields.io/badge/-Click_Here-58a780?style=for-the-badge)]((https://kuyajasper-techblog.herokuapp.com/))
+  [![Deployed Application](https://img.shields.io/badge/-Click_Here-58a780?style=for-the-badge)](https://kuyajasper-techblog.herokuapp.com/)
 
 
 # Questions
